@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Pintest::Application.config.secret_token = '8424f035ad1c245e6916d8376e01a1594d198ff44de0ffef1a5cb35a3e66843ae1584daf0a9bae6b49a85d62fa1d808a72f543c8b2ce550fb7263cd85629bf36'
+Omrails::Application.config.secret_token = '5fd9e5a2412bc3ff1e7bc9325d66391c95db3eeef12ea84d7b73e7a83e919a329f7a99dd5c7e0f0c78b13edbe600ab0ee20f010c17812e10242d883690ca8ea4'
